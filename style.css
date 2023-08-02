@@ -1,0 +1,48 @@
+.intro {
+    text-align: center;
+}
+.quote {
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: #FFD1DA;
+}
+h1 {
+    color: rgb(4, 4, 80);
+}
+hr {
+    border-width: 5px 0 0 0;
+    border-style: dotted;
+    width: 10%;
+}
+h2 {
+    color: rgb(190, 188, 179);
+}
+.flex {
+    display: inline-flex;
+    gap: 10px;
+}
+.background-image {
+    background-image: url(./image/background\ image.jpg),url(./image/back\ image\ 2.jpg);
+    background-size: cover;
+}
+li {
+    font-style: italic;
+    color: white;
+    font-size: x-large;
+    margin-left: 15px;
+}
+h3 {
+    font-family: 'Lumanosimo', cursive;
+    text-align: center;
+}
+p {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+    border: 10px dashed black;
+    margin: 0 20%;
+}
+img {
+    border: 10px double black;
+}
